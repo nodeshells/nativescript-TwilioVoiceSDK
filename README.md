@@ -15,7 +15,7 @@ Describe the prerequisites that the user need to have installed before using you
 Describe your plugin installation steps. Ideally it would be something like:
 
 ```javascript
-tns plugin add <your-plugin-name>
+tns plugin add TwilioProgrammableVoice-SDK
 ```
 
 ## Usage 
@@ -26,15 +26,5 @@ Describe any usage specifics for your plugin. Give examples for Android, iOS, An
     Usage code snippets here
     ```)
 
-## API
-
-Describe your plugin methods and properties here. See [nativescript-feedback](https://github.com/EddyVerbruggen/nativescript-feedback) for example.
-    
-| Property | Default | Description |
-| --- | --- | --- |
-| some property | property default value | property description, default values, etc.. |
-| another property | property default value | property description, default values, etc.. |
-    
 ## License
-
-Apache License Version 2.0, January 2004
+MIT
